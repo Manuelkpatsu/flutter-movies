@@ -1,6 +1,6 @@
 import 'package:fluttermovieapp/utils/constants.dart';
-import 'package:fluttermovieapp/utils/custom_button.dart';
 import 'package:flutter/material.dart';
+import 'package:fluttermovieapp/widgets/custom_button.dart';
 import 'package:sizer/sizer.dart';
 
 class MovieDetails {

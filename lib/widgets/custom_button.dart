@@ -23,7 +23,7 @@ class CustomButton extends StatelessWidget {
         padding: padding ?? EdgeInsets.zero,
         child: Container(
           decoration:
-              BoxDecoration(borderRadius: BorderRadius.circular(22.0.sp), color: color),
+          BoxDecoration(borderRadius: BorderRadius.circular(22.0.sp), color: color),
           child: Padding(
             padding: EdgeInsets.symmetric(horizontal: 5.0.w, vertical: 1.5.h),
             child: Center(child: Text(text, style: kHomeScreenButtonTextStyle)),
